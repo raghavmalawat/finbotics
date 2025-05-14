@@ -30,7 +30,7 @@ analyze_vendor_expenses:
     4. Month-over-month trends if multiple months
     
     Use the CSV files in the data/csv directory.
-    Focus on Acme+AI_General+Ledger.csv for detailed transactions.
+    Focus on general_ledger.csv for detailed transactions.
   expected_output: >
     A detailed expense report containing:
     - Total spent with vendor

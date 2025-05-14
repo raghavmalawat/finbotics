@@ -7,7 +7,7 @@ def test_csv_tool():
     """Test if CSVSearchTool works with our Excel files"""
     
     data_dir = Path("data/csv")
-    ledger_file = data_dir / "Acme+AI_General+Ledger.csv"
+    ledger_file = data_dir / "general_ledger.csv"
     
     print(f"Testing file: {ledger_file}")
     print(f"File exists: {ledger_file.exists()}")
