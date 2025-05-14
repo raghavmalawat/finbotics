@@ -1,0 +1,223 @@
+MIME-Version: 1.0
+Date: Thu, 20 Mar 2025 22:13:50 -0700
+References: <CAOe-iWQtXP-dDR_Eq6xCYtLHTdDPH0vFT9tkAUaa4zjL+eg71g@mail.gmail.com> <CAOe-iWQ0Ki8Echs-po_SK_71rdMDVTVnZ+ODJg7AzP=ikM1wnw@mail.gmail.com> <CAP3TbpkA7PVcC+stUgLbzT=OyCZJjkA6x=pkOw4KyT98d8sV-w@mail.gmail.com>
+In-Reply-To: <CAP3TbpkA7PVcC+stUgLbzT=OyCZJjkA6x=pkOw4KyT98d8sV-w@mail.gmail.com>
+Message-ID: <CAOe-iWS6VHiTDmjxBROOAY67omJL1Dkytowiyv+MAi6hyrJwFg@mail.gmail.com>
+Subject: Re: Acme AI books — February 2025
+From: Jessica McKellar <jesstess@pilot.com>
+To: Irma Miller <iba@getacme.ai>
+Cc: Myra <myra@getacme.ai>, Natasha Sigaran <natasha.sigaran@support.pilot.com>
+Content-Type: multipart/related; boundary="000000000000ec33b40630d3519d"
+
+--000000000000ec33b40630d3519d
+Content-Type: multipart/alternative; boundary="000000000000ec33b30630d3519c"
+
+--000000000000ec33b30630d3519c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Irma,
+
+Great, thanks for these updates. I believe we're all set on Stripe with
+your changes. Here <https://app.pilot.com/c/1ed33031/home> are updated
+financials incorporating the portal feedback.
+
+Regards,
+Jessica
+
+
+On Wed, Mar 19, 2025 at 9:57=E2=80=AFPM Irma Miller <iba@getacme.ai> wrot=
+e:
+
+> Hi Jessica,
+>
+> Thank you for your patience! I appreciate your help as always.
+>
+> The first three items are all reviewed and completed. Regarding the vendo=
+r
+> categorization, only one vendor was reclassified under professional
+> development.
+>
+> As for the invoices to Sevenn, these were real invoices, but they were no=
+t
+> paid. We=E2=80=99ve deactivated their paid subscription for now, and mark=
+ed their
+> subscription as cancelled. Let us know if there=E2=80=99s anything else w=
+e should
+> do on that front.
+>
+> Appreciate the note on tax prep=E2=80=94I=E2=80=99ll keep that in mind fo=
+r any founders
+> who might need support.
+>
+> Best,
+>
+> Irma
+>
+> On Wed, Mar 19, 2025 at 10:50=E2=80=AFAM Jessica McKellar <jesstess@pilot=
+.com>
+> wrote:
+>
+>> Hi team,
+>>
+>> Quick reminder to take a look at these open items. Let me know if it
+>> would be easiest to talk through this live on a call.
+>>
+>> Regards,
+>> Jessica
+>>
+>>
+>> On Wed, Mar 12, 2025 at 11:16=E2=80=AFPM Jessica McKellar <jesstess@pilo=
+t.com>
+>> wrote:
+>>
+>>> Hi Irma, Myra, and Tam,
+>>>
+>>> Just a couple of small items for this month:
+>>>
+>>>    1. Please answer a question here
+>>>    <https://app.pilot.com/c/1ed33031/tasks/questions>.
+>>>    2. Please review the new vendors we categorized this period here
+>>>    <https://app.pilot.com/c/1ed33031/new-vendors>.
+>>>    3. Please review your draft financials here
+>>>    <https://app.pilot.com/c/1ed33031/home>.
+>>>
+>>> And then finally, I wanted to flag the status of some invoices in Strip=
+e:
+>>>
+>>> [image: image.png]
+>>>
+>>> Are these two invoices to tim@sevenn.co a) real invoices and b) still
+>>> intended to be collected upon?
+>>>
+>>> If they are not real invoices, your team should delete them, so they
+>>> don't inflate your revenue. If they are real invoices, but they aren't
+>>> going to be paid, you should mark them as uncollectible (which will cau=
+se
+>>> them to be written off as bad debt). Note that automatic collection is
+>>> turned off, so they are not going to close automatically -- the team wi=
+ll
+>>> either need a process to decide when invoices should be written off as =
+bad
+>>> debt (at which point the invoice status should be updated manually in
+>>> Stripe) or we should change the configuration in Stripe to do this
+>>> automatically after some number of failed payment attempts.
+>>>
+>>> Let me know if it would be helpful to walk through this together on a
+>>> call.
+>>>
+>>> Regards,
+>>> Jessica
+>>>
+>>> PS: If you know any startup founders who are still looking for a tax
+>>> preparer for 2024, we're happy to help them out or at least get an
+>>> extension filed so they have more time to think about this. Feel free t=
+o
+>>> intro them to me directly.
+>>>
+>>
+
+--000000000000ec33b30630d3519c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Irma,<div><br></div><div>Great, thanks for these updates=
+. I believe we&#39;re all set on Stripe with your changes. <a href=3D"https=
+://app.pilot.com/c/1ed33031/home">Here</a> are updated financials=C2=A0inco=
+rporating the portal feedback.</div><div><br></div><div>Regards,</div><div>=
+Jessica</div><div>=C2=A0<br></div></div><br><div class=3D"gmail_quote"><div=
+ dir=3D"ltr" class=3D"gmail_attr">On Wed, Mar 19, 2025 at 9:57=E2=80=AFPM I=
+ba Miller &lt;<a href=3D"mailto:iba@getacme.ai" target=3D"_blank">iba@ge=
+tacme.ai</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=
+=3D"margin:0px 0px 0px 0.8ex;border-left-width:1px;border-left-style:solid;=
+border-left-color:rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr"><p>Hi=
+ Jessica,</p>
+<p>Thank you for your patience! I appreciate your help as always.</p>
+<p>The first three items are all reviewed and completed. Regarding the vend=
+or categorization, only one vendor was reclassified under professional deve=
+lopment.</p>
+<p>As for the invoices to Sevenn, these were real invoices, but they were n=
+ot paid. We=E2=80=99ve deactivated their paid subscription for now, and mar=
+ked their subscription as cancelled. Let us know if there=E2=80=99s anythin=
+g else we should do on that front.</p>
+<p>Appreciate the note on tax prep=E2=80=94I=E2=80=99ll keep that in mind f=
+or any founders who might need support.</p>
+<p>Best,</p>
+<p>Irma</p></div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gm=
+ail_attr">On Wed, Mar 19, 2025 at 10:50=E2=80=AFAM Jessica McKellar &lt;<a =
+href=3D"mailto:jesstess@pilot.com" target=3D"_blank">jesstess@pilot.com</a>=
+&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0px =
+0px 0px 0.8ex;border-left-width:1px;border-left-style:solid;border-left-col=
+or:rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr">Hi team,<div><br></d=
+iv><div>Quick reminder to take a look at these open items. Let me know if i=
+t would be easiest to talk through this live on a call.</div><div><br></div=
+><div>Regards,</div><div>Jessica=C2=A0<br></div><div><br></div></div><br><d=
+iv class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">On Wed, Mar =
+12, 2025 at 11:16=E2=80=AFPM Jessica McKellar &lt;<a href=3D"mailto:jesstes=
+s@pilot.com" target=3D"_blank">jesstess@pilot.com</a>&gt; wrote:<br></div><=
+blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-l=
+eft-width:1px;border-left-style:solid;border-left-color:rgb(204,204,204);pa=
+dding-left:1ex"><div dir=3D"ltr">
+
+
+   =20
+
+
+<div>
+   =20
+
+    <div>Hi
+        Irma, Myra, and Tam,
+    </div>
+
+    <div>
+        <p>Just a couple of small items for this month:</p></div>
+
+    <ol>
+<li>Please answer a question <a href=3D"https://app.pilot.com/c/1ed33031/ta=
+sks/questions" target=3D"_blank">here</a>.</li>
+<li>Please review the new vendors we categorized this period <a href=3D"htt=
+ps://app.pilot.com/c/1ed33031/new-vendors" target=3D"_blank">here</a>.</li>
+<li>Please review your draft financials <a href=3D"https://app.pilot.com/c/=
+1ed33031/home" target=3D"_blank">here</a>.</li></ol><p>And then finally,=C2=
+=A0I wanted to flag the status of some invoices in Stripe:</p><p></p><img s=
+rc=3D"cid:ii_m86y9ac40" alt=3D"image.png" width=3D"520" height=3D"144"><br>
+    <br>Are these two invoices to <a href=3D"mailto:tim@sevenn.co" target=
+=3D"_blank">tim@sevenn.co</a> a) real invoices and b) still intended to be =
+collected upon?</div><div><br></div><div>If they are not real invoices, you=
+r team should delete them, so=C2=A0they don&#39;t inflate your revenue.=C2=
+=A0If they are real invoices, but they aren&#39;t going to be paid, you sho=
+uld mark them as uncollectible (which will cause them to be written off as =
+bad debt).=C2=A0Note that automatic collection is turned off, so they are n=
+ot going to close automatically -- the team will either need a process to d=
+ecide when invoices should be written off as bad debt (at which point the i=
+nvoice status should be updated manually in Stripe) or we should change the=
+ configuration in Stripe to do this automatically after some number of fail=
+ed payment attempts.</div><div><br></div><div>Let me know if it would be he=
+lpful to walk through this together on a call.=C2=A0<br></div><div>
+
+    <div><br></div><div>Regards,<br>
+        Jessica
+    </div><div><br></div><div>PS:=C2=A0If you know any startup founders who=
+ are=C2=A0still looking for a tax preparer for 2024, we&#39;re happy to hel=
+p them out or at least get an extension filed so they have more time to thi=
+nk about this. Feel free to intro them to me directly. </div>
+
+   =20
+</div>
+
+</div>
+</blockquote></div>
+</blockquote></div>
+</blockquote></div>
+
+--000000000000ec33b30630d3519c--
+--000000000000ec33b40630d3519d
+Content-Type: image/png; name="image.png"
+Content-Disposition: attachment; filename="image.png"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: ii_m86y9ac40
+Content-ID: <ii_m86y9ac40>
+
+
+--000000000000ec33b40630d3519d--

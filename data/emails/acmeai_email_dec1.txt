@@ -1,0 +1,178 @@
+MIME-Version: 1.0
+Date: Thu, 16 Jan 2025 10:22:59 -0800
+References: <CAOe-iWSQLuVxZodt2jrO06V3SHt5O=6qOBqbqojt0Xcb4kVe1w@mail.gmail.com> <CAP3Tbp=dz0MgVxhtfqSPMFNT+7cFYZbY5wmuXBgoRXaM3Ptrwg@mail.gmail.com>
+In-Reply-To: <CAP3Tbp=dz0MgVxhtfqSPMFNT+7cFYZbY5wmuXBgoRXaM3Ptrwg@mail.gmail.com>
+Message-ID: <CAOe-iWRigsUa-kmUADzxk10yjo=PWqCb5aA=Xqh4xjRkVaLfUA@mail.gmail.com>
+Subject: Re: Acme AI books — December 2024
+From: Jessica McKellar <jesstess@pilot.com>
+To: Irma Miller <iba@getacme.ai>
+Cc: Tam <tam@getacme.ai>, Myra <myra@getacme.ai>, Natasha Sigaran <natasha.sigaran@support.pilot.com>
+Content-Type: multipart/alternative; boundary="0000000000004ef42e062bd6e21c"
+
+--0000000000004ef42e062bd6e21c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi team,
+
+Thanks Myra for the replies. Here <https://app.pilot.com/c/1ed33031/home>
+are updated reports, let me know if you'd like to see any other changes or
+if we should mark the books closed-final.
+
+I wanted to hoist a couple of items up to the full group:
+
+*Vendor payments*
+
+One ask was to accrue a DLA Piper expense from January back to December as
+it was for December services. We've made that accrual, but:
+
+Structurally, if you want to make sure every vendor payment is recognized
+in the correct period without having to tell us reactively, we need to have
+access to those invoices (the bank memos don't include service period
+info). At low volume, the way we can solve this is by your team adding
+these invoices to a Dropbox folder as they come in (or some similar
+process). At higher volume, you should use a vendor management system like
+Bill.com.
+
+Should we hop on a call to talk through a process that is efficient for
+your team?
+
+*Invoicing and rev rec*
+
+We saw Stripe access come through, thanks! We'll want to make sure Stripe
+is configured (products and subscriptions) so that we have the appropriate
+metadata flowing through to QBO to categorize and amortize the
+subscriptions correctly. When do you think you'll start invoicing out of
+Stripe?
+
+Regards,
+Jessica
+
+
+On Wed, Jan 15, 2025 at 5:11=E2=80=AFPM Irma Miller <iba@getacme.ai> wrot=
+e:
+
+> Happy new year Jessica and team.
+>
+> Thanks for sending this over. We=E2=80=99ll be reviewing and will revert,=
+ much
+> appreciated.
+>
+> Best,
+> Irma and team
+>
+> On Wed, Jan 15, 2025 at 3:07=E2=80=AFPM Jessica McKellar <jesstess@pilot.=
+com>
+> wrote:
+>
+>> Hi Irma, Myra, and Tam,
+>>
+>> I hope you've had a great start to 2025. No questions this month, so jus=
+t
+>> the optional invitation to review the new vendors we categorized this
+>> period here <https://app.pilot.com/c/1ed33031/new-vendors>. And let me
+>> know if there are any invoices that we need to manually import into QBO
+>> (for December, or looking ahead to present day for the January close).
+>>
+>> Other than that, you can review your draft financials by downloading the=
+m
+>> here <https://app.pilot.com/c/1ed33031/home>. Let us know if you have
+>> any feedback or changes you=E2=80=99d like us to make by clicking the =
+=E2=80=9CCompose
+>> questions=E2=80=9D link on your Questions page
+>> <https://app.pilot.com/c/1ed33031/tasks/questions>.
+>>
+>> Regards,
+>> Jessica
+>> --
+>>
+>> *FYI:* *New portal featur**e - Bank transactions
+>> <https://app.pilot.com/c/1ed33031/activity/transactions>:* Search,
+>> comment on, or request categorization changes across all of your bank an=
+d
+>> credit card transactions.
+>>
+>>
+
+--0000000000004ef42e062bd6e21c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi team,<div><br></div><div>Thanks Myra for the replies. <=
+a href=3D"https://app.pilot.com/c/1ed33031/home">Here</a> are updated repor=
+ts, let me know if you&#39;d like to see any other changes or if we should =
+mark the books closed-final.</div><div><br></div><div>I wanted to hoist a c=
+ouple of items up to the full group:</div><div><br></div><div><b>Vendor pay=
+ments</b></div><div><br></div>One ask was to accrue a DLA Piper expense fro=
+m January back to December as it was for December services. We&#39;ve made =
+that accrual, but:<br><br>Structurally, if you want to make sure every vend=
+or payment is recognized in the correct period without having to tell us re=
+actively, we need to have access to those invoices (the bank memos don&#39;=
+t include service period info). At low volume, the way we can solve this is=
+ by your team adding these invoices to a Dropbox folder as they come in (or=
+ some similar process). At higher volume, you should use a vendor managemen=
+t system like Bill.com.<div><br></div><div>Should we hop on a call to talk =
+through=C2=A0a process that is efficient for your team?<br><div><br></div><=
+div><b>Invoicing and rev rec</b></div><div><b><br></b></div><div>We saw Str=
+ipe access come through, thanks! We&#39;ll want to make sure Stripe is conf=
+igured (products and subscriptions) so that we have=C2=A0the appropriate me=
+tadata flowing through to QBO to categorize and amortize the subscriptions =
+correctly. When do you think you&#39;ll start invoicing out of Stripe?</div=
+><div><br></div><div>Regards,</div><div>Jessica</div><div><br></div></div><=
+/div><br><div class=3D"gmail_quote gmail_quote_container"><div dir=3D"ltr" =
+class=3D"gmail_attr">On Wed, Jan 15, 2025 at 5:11=E2=80=AFPM Irma Miller &lt=
+;<a href=3D"mailto:iba@getacme.ai">iba@getacme.ai</a>&gt; wrote:<br><=
+/div><blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;bo=
+rder-left-width:1px;border-left-style:solid;border-left-color:rgb(204,204,2=
+04);padding-left:1ex"><div dir=3D"auto">Happy new year Jessica and team.</d=
+iv><div dir=3D"auto"><br></div><div dir=3D"auto">Thanks for sending this ov=
+er. We=E2=80=99ll be reviewing and will revert, much appreciated.</div><div=
+ dir=3D"auto"><br></div><div dir=3D"auto">Best,</div><div dir=3D"auto">Irma =
+and team</div><div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D=
+"gmail_attr">On Wed, Jan 15, 2025 at 3:07=E2=80=AFPM Jessica McKellar &lt;<=
+a href=3D"mailto:jesstess@pilot.com" target=3D"_blank">jesstess@pilot.com</=
+a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0p=
+x 0px 0px 0.8ex;border-left-width:1px;border-left-style:solid;padding-left:=
+1ex;border-left-color:rgb(204,204,204)"><div dir=3D"ltr">
+
+
+   =20
+
+
+<div>
+   =20
+
+    <div>Hi
+        Irma, Myra, and Tam,
+    </div>
+
+    <div>
+        <p>I hope you&#39;ve had a great start to 2025. No questions this m=
+onth, so just the optional invitation to review the new vendors we categori=
+zed this period <a href=3D"https://app.pilot.com/c/1ed33031/new-vendors" ta=
+rget=3D"_blank">here</a>. And let me know if there are any invoices that we=
+ need to manually import into QBO (for December, or looking ahead to presen=
+t day for the January close).</p><p>Other than that, you can review your dr=
+aft financials by downloading them <a href=3D"https://app.pilot.com/c/1ed33=
+031/home" target=3D"_blank">here</a>. Let us know if you have any feedback =
+or changes you=E2=80=99d like us to make by clicking the =E2=80=9CCompose q=
+uestions=E2=80=9D link on your <a href=3D"https://app.pilot.com/c/1ed33031/=
+tasks/questions" target=3D"_blank">Questions page</a>.</p></div><p>Regards,=
+<br>Jessica<br></p>
+
+    <div>--</div><div><strong><br></strong></div><div>
+        <strong>FYI:</strong>=C2=A0<strong><span>New</span><span>=C2=A0</sp=
+an><span>portal</span><span>=C2=A0</span>featur</strong><b>e -=C2=A0<a href=
+=3D"https://app.pilot.com/c/1ed33031/activity/transactions" target=3D"_blan=
+k">Bank transactions</a>:</b>=C2=A0Search, comment on, or request categoriz=
+ation changes across=C2=A0all of your bank and credit card transactions.</d=
+iv><div><br></div>
+
+   =20
+</div>
+
+</div>
+</blockquote></div></div>
+</blockquote></div>
+
+--0000000000004ef42e062bd6e21c--

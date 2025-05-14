@@ -1,0 +1,89 @@
+MIME-Version: 1.0
+Date: Thu, 13 Feb 2025 10:58:27 -0800
+Bcc: Ship acmeai for January 2025 <shipped-acmeai-for-2025-01@airmail.pilot.com>
+Message-ID: <CAOe-iWT=L4TDyQYyJXbEqxy=cmRAyaEBL5BewYh-mOX+6Q1r=w@mail.gmail.com>
+Subject: Acme AI books — January 2025
+From: Jessica McKellar <jesstess@pilot.com>
+To: Irma <iba@getacme.ai>, Tam <tam@getacme.ai>, Myra <myra@getacme.ai>
+Cc: Natasha Sigaran <natasha.sigaran@support.pilot.com>
+Content-Type: multipart/alternative; boundary="000000000000ad7d61062e0aa4cc"
+
+--000000000000ad7d61062e0aa4cc
+Content-Type: text/plain; charset="UTF-8"
+
+ Hi Irma, Myra, and Tam,
+
+We've prepared draft January books and published draft reports to the
+portal. Please take a look at the following:
+
+   1. Answer a few questions here
+   <https://app.pilot.com/c/1ed33031/tasks/questions>.
+   2. Review new vendors we categorized this period here
+   <https://app.pilot.com/c/1ed33031/new-vendors>.
+   3. Review your draft financials here
+   <https://app.pilot.com/c/1ed33031/home>.
+
+Once we've addressed all open questions, we'll share finalized financials
+for your review and sign-off.
+
+Regards,
+Jessica
+
+--
+
+*FYI: **New Feature - Vendor Mappings:* If you want to proactively set or
+change how vendors are categorized, there's now an easy place to do this.
+Visit the Vendor Mappings page
+<https://app.pilot.com/c/1ed33031/settings/vendor-mappings> and watch the
+video demo <https://capture.dropbox.com/9ZMOMiJJGPtZRR3z>.
+
+--000000000000ad7d61062e0aa4cc
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+
+   =20
+
+
+<div>
+   =20
+
+    <div>Hi
+        Irma, Myra, and Tam,
+    </div>
+
+    <div>
+        <p>We&#39;ve prepared draft January books and published draft repor=
+ts to the portal. Please take a look at the following:</p></div>
+
+    <ol>
+<li>Answer a few questions <a href=3D"https://app.pilot.com/c/1ed33031/task=
+s/questions" target=3D"_blank">here</a>.</li>
+<li>Review new vendors we categorized this period <a href=3D"https://app.pi=
+lot.com/c/1ed33031/new-vendors" target=3D"_blank">here</a>.</li>
+<li>Review your draft financials=C2=A0<a href=3D"https://app.pilot.com/c/1e=
+d33031/home" target=3D"_blank">here</a>.</li>
+</ol>
+<p>Once we&#39;ve addressed all open questions, we&#39;ll share finalized f=
+inancials for your review and sign-off.<br><br>Regards,<br>Jessica</p><p>--=
+</p><div><p><strong>FYI:=C2=A0</strong><strong>New Feature -<span class=3D"=
+gmail-Apple-converted-space">=C2=A0</span><span class=3D"gmail-il">Vendor</=
+span><span class=3D"gmail-Apple-converted-space">=C2=A0</span><span class=
+=3D"gmail-il">Mappings</span>:</strong>=C2=A0If you want to proactively set=
+ or change how vendors are categorized, there&#39;s now an easy place to do=
+ this. Visit the<span class=3D"gmail-Apple-converted-space">=C2=A0</span><a=
+ href=3D"https://app.pilot.com/c/1ed33031/settings/vendor-mappings" target=
+=3D"_blank">Vendor Mappings page</a>=C2=A0and=C2=A0<a href=3D"https://captu=
+re.dropbox.com/9ZMOMiJJGPtZRR3z" target=3D"_blank">watch the video demo</a>=
+.</p></div><div><div class=3D"gmail-gs" style=3D"margin:0px;min-width:0px;p=
+adding:0px 0px 20px;width:auto;font-family:&quot;Google Sans&quot;,Roboto,R=
+obotoDraft,Helvetica,Arial,sans-serif"><br></div></div><div><br></div>
+
+   =20
+</div>
+
+</div>
+
+--000000000000ad7d61062e0aa4cc--

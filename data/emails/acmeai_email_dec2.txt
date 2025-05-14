@@ -1,0 +1,267 @@
+MIME-Version: 1.0
+Date: Thu, 6 Feb 2025 14:51:04 -0800
+References: <CAOe-iWSQLuVxZodt2jrO06V3SHt5O=6qOBqbqojt0Xcb4kVe1w@mail.gmail.com> <CAP3Tbp=dz0MgVxhtfqSPMFNT+7cFYZbY5wmuXBgoRXaM3Ptrwg@mail.gmail.com> <CAOe-iWRigsUa-kmUADzxk10yjo=PWqCb5aA=Xqh4xjRkVaLfUA@mail.gmail.com> <CAP3TbpnfgwLb-vJHi-w5Q8JZfQYNUBnMv_TcwBvG7w03muLT_Q@mail.gmail.com> <CAOe-iWRM1ZPms6pOzQnPi5ncO+yXx1fTGZe1GAvof3b3-gERUA@mail.gmail.com> <CAP3TbpkwyPN8pus=44msSC-ZiS1MbyWH7br3q-QKRyXq6_3a0g@mail.gmail.com> <CAOe-iWTmDiF2PDbn8_nNGbDe69FzLTz_6-aAJmH-Oz43dT2wRQ@mail.gmail.com> <CAP3TbpkMsWF-D0zpLUZg_7gmQWHERdMjXcbGn1Kgo9EWorK8dw@mail.gmail.com> <CAPiVs+vXaL=UmCPqp5PL8=4JEf6__EizWUXfJK3V8OzDv4rzWw@mail.gmail.com>
+In-Reply-To: <CAPiVs+vXaL=UmCPqp5PL8=4JEf6__EizWUXfJK3V8OzDv4rzWw@mail.gmail.com>
+Message-ID: <CAOe-iWQgJoFXvMDzCjt8nZDCCxe7uwRH8WfSsArxjFGKnF2yvQ@mail.gmail.com>
+Subject: Re: Acme AI books — December 2024
+From: Jessica McKellar <jesstess@pilot.com>
+To: Myra Magpantay <myra@getacme.ai>
+Cc: Irma Miller <iba@getacme.ai>, Tam <tam@getacme.ai>, Natasha Sigaran <natasha.sigaran@support.pilot.com>
+Content-Type: multipart/alternative; boundary="000000000000b9a608062d8113eb"
+
+--000000000000b9a608062d8113eb
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Myra,
+
+Thanks for letting me know, and congrats. I checked the products in Stripe,
+and everything looks good for ensuring that we have accurate service period
+data to amortize these subscriptions correctly.
+
+Regards,
+Jessica
+
+
+On Mon, Feb 3, 2025 at 4:28=E2=80=AFPM Myra Magpantay <myra@getacme.ai> =
+wrote:
+
+> Hi Jessica,
+>
+> We wanted to inform you that we got our first payment on Stripe. Please
+> see the attached invoice for reference. Let us know if you need any furth=
+er
+> details.
+>
+> Best,
+> Myra
+>
+>
+>
+> On Tue, Jan 21, 2025 at 10:07=E2=80=AFPM Irma Miller <iba@getacme.ai> w=
+rote:
+>
+>> Thanks for the super quick turnaround Jessica. Much appreciated!
+>>
+>> Best,
+>> Irma
+>>
+>> On Tue, Jan 21, 2025 at 10:05=E2=80=AFPM Jessica McKellar <jesstess@pilo=
+t.com>
+>> wrote:
+>>
+>>> Hi Irma,
+>>>
+>>> I've updated the DLA Piper transactions to be booked to Cost of
+>>> Financing, and also accrued the expenses back to October per the invoic=
+e
+>>> service period now that we have that info.
+>>>
+>>> I also updated the Nespresso expense per the portal feedback.
+>>>
+>>> Please find updated reports here <https://app.pilot.com/c/1ed33031/home=
+>
+>>> .
+>>>
+>>> Regards,
+>>> Jessica
+>>>
+>>> On Tue, Jan 21, 2025 at 10:11=E2=80=AFAM Irma Miller <iba@getacme.ai>=
+ wrote:
+>>>
+>>>> Hi Jessica + Natasha,
+>>>>
+>>>> I was going through the cash flow statement and noticed something that
+>>>> might need a second look. Specifically, it=E2=80=99s about the cost of=
+ financing.
+>>>>
+>>>> We=E2=80=99ve had two invoices related to financing expenses, like the=
+ $35,000
+>>>> payment to Cooley for representing our investor in the Series Seed
+>>>> financing. I=E2=80=99ve attached the two invoices here for reference:
+>>>>
+>>>>    1. *Cooley LLP - Invoice #2904762*: $35,000 for Chingona Ventures=
+=E2=80=99
+>>>>    representation in the Series Pre-seed equity round.
+>>>>    2. *DLA Piper LLP - Invoice #883264170*: $88,659, which is all the
+>>>>    legal work from our lawyers on the financing transaction.
+>>>>
+>>>> I=E2=80=99m not 100% sure if these were marked correctly in the cash f=
+low, but
+>>>> thought I=E2=80=99d flag it just in case. Could you folks take a quick=
+ look and let
+>>>> me know if everything checks out? We're planning to send the financial
+>>>> statements to our investors shortly.
+>>>>
+>>>> Thanks!
+>>>>
+>>>> Best,
+>>>> Irma
+>>>>
+>>>> On Sun, Jan 19, 2025 at 2:01=E2=80=AFPM Jessica McKellar <jesstess@pil=
+ot.com>
+>>>> wrote:
+>>>>
+>>>>> Hi Irma,
+>>>>>
+>>>>>>
+>>>>>>    1. *December Books*
+>>>>>>    We need one adjustment to the December books related to legal
+>>>>>>    expenses. See attached for invoices. Specifically:
+>>>>>>       - The DLA *November invoice (#883289963)* for $3,052.02 should
+>>>>>>       be accrued to November, as it was paid and it was for services=
+ rendered in
+>>>>>>       November.
+>>>>>>       - The DLA *December invoice (#883304188)* for $1,178.55 should
+>>>>>>       be accrued to December, as it remains pending payment and is f=
+or services
+>>>>>>       rendered in December.
+>>>>>>
+>>>>>> Thanks, we've updated these accruals.
+>>>>>
+>>>>> Is it possible to request a faster turnaround from DLA Piper on your
+>>>>> monthly invoices (e.g. the 1st week of the month)? Right now, they ar=
+e
+>>>>> issued so late in the next month that we're likely to have completed =
+your
+>>>>> books by the time the invoice comes through.
+>>>>>
+>>>>>>
+>>>>>>    2.
+>>>>>>
+>>>>>>    *Invoice Management*
+>>>>>>    We=E2=80=99d like to move forward with the Dropbox link for invoi=
+ce
+>>>>>>    sharing for now, given the low volume. This should make it easier=
+ to ensure
+>>>>>>    accruals align with service periods without requiring manual foll=
+ow-ups. *Just
+>>>>>>    LMK if you would like us to create one.*
+>>>>>>
+>>>>>> Let's please use this link
+>>>>> <https://www.dropbox.com/request/zae9L67O2EN8O9DhE50d>.
+>>>>>
+>>>>>>
+>>>>>>    2.
+>>>>>>
+>>>>>>    *Stripe Invoicing*
+>>>>>>    We=E2=80=99re planning to start invoicing via Stripe by March/Apr=
+il. If
+>>>>>>    we=E2=80=99re able to move earlier, I=E2=80=99ll let you know.
+>>>>>>
+>>>>>> Great. Let's plan to get on a call before your first invoice so we
+>>>>> can confirm the product and subscription setup together.
+>>>>>
+>>>>> Please find updated financials here
+>>>>> <https://app.pilot.com/c/1ed33031/home>.
+>>>>>
+>>>>> Regards,
+>>>>> Jessica
+>>>>>
+>>>>>
+>>>>
+
+--000000000000b9a608062d8113eb
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Myra,<div><br></div><div>Thanks for letting me know, an=
+d congrats. I checked the products in Stripe, and everything looks good for=
+ ensuring that we have accurate service period data to amortize these subsc=
+riptions correctly.</div><div><br></div><div>Regards,</div><div>Jessica</di=
+v><div><br></div></div><br><div class=3D"gmail_quote gmail_quote_container"=
+><div dir=3D"ltr" class=3D"gmail_attr">On Mon, Feb 3, 2025 at 4:28=E2=80=AF=
+PM Myra Magpantay &lt;<a href=3D"mailto:myra@getacme.ai">myra@getacme=
+.ai</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"marg=
+in:0px 0px 0px 0.8ex;border-left-width:1px;border-left-style:solid;border-l=
+eft-color:rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr">Hi Jessica,<d=
+iv><br></div><div>We wanted to inform you that we got our first payment on =
+Stripe. Please see the attached invoice for reference. Let us know if you n=
+eed any further details.</div><div><br></div><div>Best,</div><div>Myra</div=
+><div><br></div><div><br></div></div><br><div class=3D"gmail_quote"><div di=
+r=3D"ltr" class=3D"gmail_attr">On Tue, Jan 21, 2025 at 10:07=E2=80=AFPM Irma=
+ Miller &lt;<a href=3D"mailto:iba@getacme.ai" target=3D"_blank">iba@geto=
+ptimal.ai</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=
+=3D"margin:0px 0px 0px 0.8ex;border-left-width:1px;border-left-style:solid;=
+border-left-color:rgb(204,204,204);padding-left:1ex"><div dir=3D"auto">Than=
+ks for the super quick turnaround Jessica. Much appreciated!</div><div dir=
+=3D"auto"><br></div><div dir=3D"auto">Best,</div><div dir=3D"auto">Irma</div=
+><div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">=
+On Tue, Jan 21, 2025 at 10:05=E2=80=AFPM Jessica McKellar &lt;<a href=3D"ma=
+ilto:jesstess@pilot.com" target=3D"_blank">jesstess@pilot.com</a>&gt; wrote=
+:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.=
+8ex;border-left-width:1px;border-left-style:solid;border-left-color:rgb(204=
+,204,204);padding-left:1ex"><div dir=3D"ltr">Hi Irma,<div><br></div><div>I&#=
+39;ve updated the DLA Piper transactions to be booked to Cost of Financing,=
+ and also accrued the expenses back to October per the invoice service peri=
+od now that we have that info.</div><div><br></div><div>I also updated the =
+Nespresso=C2=A0expense per the portal feedback.</div><div><br></div><div>Pl=
+ease find updated reports <a href=3D"https://app.pilot.com/c/1ed33031/home"=
+ target=3D"_blank">here</a>.</div><div><br></div><div>Regards,</div><div>Je=
+ssica</div></div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"g=
+mail_attr">On Tue, Jan 21, 2025 at 10:11=E2=80=AFAM Irma Miller &lt;<a href=
+=3D"mailto:iba@getacme.ai" target=3D"_blank">iba@getacme.ai</a>&gt; w=
+rote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0p=
+x 0.8ex;border-left-width:1px;border-left-style:solid;border-left-color:rgb=
+(204,204,204);padding-left:1ex"><div dir=3D"ltr">Hi Jessica + Natasha,<div>=
+<br></div><div>I was going through the cash flow statement and noticed some=
+thing that might need a second look. Specifically, it=E2=80=99s about the c=
+ost of financing.</div><div><p>We=E2=80=99ve had two invoices related to fi=
+nancing expenses, like the $35,000 payment to Cooley for representing our i=
+nvestor in the Series Seed financing. I=E2=80=99ve attached the two invoice=
+s here for reference:</p><ol><li><strong>Cooley LLP - Invoice #2904762</str=
+ong>: $35,000 for Chingona Ventures=E2=80=99 representation in the Series P=
+re-seed equity round.</li><li><strong>DLA Piper LLP - Invoice #883264170</s=
+trong>: $88,659, which is all the legal work from our lawyers on the financ=
+ing transaction.</li></ol><p>I=E2=80=99m not 100% sure if these were marked=
+ correctly in the cash flow, but thought I=E2=80=99d flag it just in case. =
+Could you folks take a quick look and let me know if everything checks out?=
+ We&#39;re planning to send the financial statements to our investors short=
+ly.</p><p>Thanks!</p><p>Best,<br>Irma</p></div></div><br><div class=3D"gmail=
+_quote"><div dir=3D"ltr" class=3D"gmail_attr">On Sun, Jan 19, 2025 at 2:01=
+=E2=80=AFPM Jessica McKellar &lt;<a href=3D"mailto:jesstess@pilot.com" targ=
+et=3D"_blank">jesstess@pilot.com</a>&gt; wrote:<br></div><blockquote class=
+=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left-width:1px;bo=
+rder-left-style:solid;border-left-color:rgb(204,204,204);padding-left:1ex">=
+<div dir=3D"ltr"><div dir=3D"ltr">Hi Irma,</div><div class=3D"gmail_quote"><=
+blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-l=
+eft-width:1px;border-left-style:solid;border-left-color:rgb(204,204,204);pa=
+dding-left:1ex"><div dir=3D"ltr"><ol><li><strong>December Books</strong><br=
+>We need one adjustment to the December books related to legal expenses. Se=
+e attached for invoices. Specifically:<ul><li>The DLA=C2=A0<strong>November=
+ invoice (#883289963)</strong> for $3,052.02 should be accrued to November,=
+ as it was paid and it was for services rendered in November.</li><li>The D=
+LA=C2=A0<strong>December invoice (#883304188)</strong> for $1,178.55 should=
+ be accrued to December, as it remains pending payment and is for services =
+rendered in December.</li></ul></li></ol></div></blockquote><div>Thanks, we=
+&#39;ve updated these accruals.</div><div><br></div><div>Is it possible to =
+request a faster turnaround from DLA Piper on your monthly invoices (e.g. t=
+he 1st week of the month)? Right now, they are issued so late in the next m=
+onth that we&#39;re likely to have completed your books by the time the inv=
+oice comes through.</div><blockquote class=3D"gmail_quote" style=3D"margin:=
+0px 0px 0px 0.8ex;border-left-width:1px;border-left-style:solid;border-left=
+-color:rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr"><ol start=3D"2">=
+<li><p><strong>Invoice Management</strong><br>We=E2=80=99d like to move for=
+ward with the Dropbox link for invoice sharing for now, given the low volum=
+e. This should make it easier to ensure accruals align with service periods=
+ without requiring manual follow-ups. <i>Just LMK if you would like us to c=
+reate one.</i></p></li></ol></div></blockquote><div>Let&#39;s please use <a=
+ href=3D"https://www.dropbox.com/request/zae9L67O2EN8O9DhE50d" target=3D"_b=
+lank">this link</a>.=C2=A0</div><blockquote class=3D"gmail_quote" style=3D"=
+margin:0px 0px 0px 0.8ex;border-left-width:1px;border-left-style:solid;bord=
+er-left-color:rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr"><ol start=
+=3D"2"><li><p><strong>Stripe Invoicing</strong><br>We=E2=80=99re planning t=
+o start invoicing via Stripe by March/April. If we=E2=80=99re able to move =
+earlier, I=E2=80=99ll let you know.</p></li></ol></div></blockquote><div>Gr=
+eat. Let&#39;s plan to get on a call before your first invoice so we can co=
+nfirm the product and subscription setup together.</div><div><br></div><div=
+>Please find updated financials <a href=3D"https://app.pilot.com/c/1ed33031=
+/home" target=3D"_blank">here</a>.</div><div><br></div><div>Regards,</div><=
+div>Jessica</div><div>=C2=A0</div></div></div>
+</blockquote></div>
+</blockquote></div>
+</blockquote></div></div>
+</blockquote></div>
+</blockquote></div>
+
+--000000000000b9a608062d8113eb--
