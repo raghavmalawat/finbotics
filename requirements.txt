@@ -1,0 +1,5 @@
+crewai[tools]>=0.1.0
+python-dotenv
+pandas
+openpyxl
+pyyaml

@@ -1,0 +1,199 @@
+classify_query:
+  description: >
+    Analyze the user's financial query: {user_query}
+    
+    Identify:
+    1. Query type (expense_analysis, revenue_analysis, cash_flow, vendor_inquiry, general_financial)
+    2. Time period mentioned (if any)
+    3. Specific entities mentioned (vendor names, account names, etc.)
+    4. Required data sources (general_ledger, balance_sheet, profit_loss, emails)
+    
+    Format your response as a structured classification.
+  expected_output: >
+    A structured classification containing:
+    - query_type: The type of financial query
+    - time_period: Extracted time period (if mentioned)
+    - entities: List of specific entities mentioned
+    - data_sources: Required data files for this query
+    - recommended_agents: Which specialist agents should handle this
+
+
+analyze_vendor_expenses:
+  description: >
+    Analyze expenses for the specified vendor: {vendor_name}
+    Time period: {time_period}
+    
+    Search through the general ledger and expense files to find:
+    1. Total amount spent with this vendor
+    2. Individual transactions
+    3. Transaction dates and descriptions
+    4. Month-over-month trends if multiple months
+    
+    Use the CSV files in the data/csv directory.
+    Focus on Acme+AI_General+Ledger.csv for detailed transactions.
+  expected_output: >
+    A detailed expense report containing:
+    - Total spent with vendor
+    - Number of transactions
+    - List of individual transactions with dates and amounts
+    - Monthly breakdown if applicable
+    - Any notable patterns or observations
+
+analyze_expense_category:
+  description: >
+    Analyze all expenses in the category: {category}
+    Time period: {time_period}
+    
+    Search through the expense files to find:
+    1. Total spending in this category
+    2. Top vendors in this category
+    3. Spending trends
+    4. Comparison to previous periods if available
+  expected_output: >
+    A comprehensive category analysis containing:
+    - Total category spending
+    - Top 5 vendors by spend
+    - Transaction details
+    - Trends and patterns identified
+
+route_to_expense_analyst:
+  description: >
+    Based on the query classification, route expense-related queries
+    to the Expense Analyst with proper parameters:
+    
+    Original query: {user_query}
+    Classification: {classification}
+    
+    Extract the relevant vendor name or category and time period
+    to pass to the Expense Analyst.
+  expected_output: >
+    Routing parameters containing:
+    - task_type: vendor_analysis or category_analysis
+    - vendor_name or category (if applicable)
+    - time_period
+    - specific_focus_areas
+
+
+generate_expense_report:
+  description: >
+    Create a professional expense report based on the analysis provided.
+    
+    Include:
+    1. Executive summary with key findings
+    2. Detailed breakdown of expenses
+    3. Visual representation suggestions (charts/graphs)
+    4. Source citations for verification
+    5. Recommendations if applicable
+    
+    Make the report easy to understand and trustworthy.
+  expected_output: >
+    A polished expense report containing:
+    - Executive Summary (2-3 key points)
+    - Detailed Findings with amounts and dates
+    - Data visualization suggestions
+    - Source citations (file names, row numbers)
+    - Clear next steps or recommendations
+
+route_query:
+  description: >
+    Route the user query to appropriate specialist agents.
+    
+    Query: {user_query}
+    
+    Determine:
+    1. Which type of analysis is needed
+    2. Which data sources to search
+    3. Which agents should handle this
+    4. What specific parameters to pass
+  expected_output: >
+    Routing decision with:
+    - Primary handler agent
+    - Specific analysis type
+    - Extracted parameters (vendor, time period, etc.)
+    - Success criteria for the analysis
+
+synthesize_final_response:
+  description: >
+    Synthesize all findings into a final response for the user.
+    
+    Original query: {user_query}
+    
+    Combine insights from different agents into a coherent response
+    that directly answers the user's question.
+  expected_output: >
+    A comprehensive response that:
+    - Directly answers the user's question
+    - Includes supporting data and evidence
+    - Provides context and explanations
+    - Suggests follow-up actions if relevant
+
+calculate_burn_rate:
+  description: >
+    Calculate the monthly burn rate based on expense data.
+    
+    Analyze the past 3-6 months of expenses to determine:
+    1. Average monthly burn rate
+    2. Trend in burn rate (increasing/decreasing)
+    3. Major expense categories contributing to burn
+    4. Seasonal variations if any
+  expected_output: >
+    Burn rate analysis containing:
+    - Current monthly burn rate
+    - 3-month and 6-month averages
+    - Burn rate trend analysis
+    - Top expense categories
+    - Recommendations for optimization
+
+calculate_runway:
+  description: >
+    Calculate the company's runway based on current cash position and burn rate.
+    
+    Using the balance sheet and cash flow data:
+    1. Determine current cash position
+    2. Use calculated burn rate
+    3. Project months of runway
+    4. Identify risks and opportunities
+  expected_output: >
+    Runway analysis containing:
+    - Current cash position
+    - Monthly burn rate used
+    - Projected runway in months
+    - Key assumptions made
+    - Risk factors identified
+    - Recommendations for extending runway
+
+search_email_context:
+  description: >
+    Search email correspondence for context about: {search_query}
+    
+    Find relevant email threads that discuss:
+    1. Vendor relationships and issues
+    2. Invoice disputes or clarifications  
+    3. Payment terms and negotiations
+    4. Service issues or resolutions
+  expected_output: >
+    Email context report containing:
+    - Relevant email excerpts
+    - Timeline of communications
+    - Key decisions or agreements found
+    - Participants involved
+    - Current status of issues
+
+validate_data_access:
+  description: >
+    Validate that the current user has access to the requested data.
+    
+    Customer ID: {customer_id}
+    Requested data: {data_type}
+    
+    Ensure:
+    1. User is authenticated
+    2. User has permission for this customer's data
+    3. No cross-customer data leakage
+    4. Access is logged for audit
+  expected_output: >
+    Security validation result:
+    - Access granted/denied
+    - Customer ID verification
+    - Permission level confirmed
+    - Audit log entry created
