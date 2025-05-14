@@ -197,3 +197,53 @@ validate_data_access:
     - Customer ID verification
     - Permission level confirmed
     - Audit log entry created
+
+analyze_complex_query:
+  description: >
+    Perform deep analysis of the user query: {user_query}
+    
+    Use the Query Analyzer Tool to:
+    1. Identify query type and intent
+    2. Extract all entities (vendors, categories, etc.)
+    3. Determine time periods and comparisons needed
+    4. Decide which agents should handle different aspects
+    5. Create a routing plan for optimal processing
+  expected_output: >
+    Comprehensive query analysis with:
+    - Query classification
+    - Extracted entities and parameters
+    - Required agents and their specific tasks
+    - Processing order recommendation
+
+orchestrate_multi_agent_response:
+  description: >
+    Orchestrate multiple agents to answer: {user_query}
+    
+    Based on the query analysis:
+    1. Route to appropriate specialist agents
+    2. Ensure proper sequencing of tasks
+    3. Coordinate data sharing between agents
+    4. Synthesize results into cohesive response
+  expected_output: >
+    Coordinated response plan with:
+    - Agent task assignments
+    - Execution sequence
+    - Data flow between agents
+    - Integration strategy
+
+compare_time_periods:
+  description: >
+    Compare financial metrics between: {period1} and {period2}
+    Category/Vendor: {entity}
+    
+    Analyze:
+    1. Period-over-period changes
+    2. Percentage differences
+    3. Notable anomalies or spikes
+    4. Potential causes for changes
+  expected_output: >
+    Comparison analysis showing:
+    - Absolute differences
+    - Percentage changes
+    - Key drivers of change
+    - Actionable insights
