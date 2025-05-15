@@ -15,6 +15,13 @@ st.set_page_config(
 if 'history' not in st.session_state:
     st.session_state.history = []
 
+# Initialize query states
+if 'selected_query' not in st.session_state:
+    st.session_state.selected_query = ""
+
+if 'should_search' not in st.session_state:
+    st.session_state.should_search = False
+
 # Custom CSS for better styling
 st.markdown("""
 <style>
@@ -77,18 +84,30 @@ st.markdown("---")
 main_col1, main_col2 = st.columns([2, 1])
 
 with main_col1:
-    # Search box
-    query = st.text_input(
-        "Ask a financial question:",
-        placeholder="e.g., How much did I spend on OpenAI in February?",
-        key="query_input"
-    )
+    # Search box - handle both manual input and example selection
+    if st.session_state.selected_query:
+        query = st.text_input(
+            "Ask a financial question:",
+            placeholder="e.g., How much did I spend on OpenAI in February?",
+            value=st.session_state.selected_query,
+            key="query_input"
+        )
+        # Don't clear selected_query here, let it persist for the search
+    else:
+        query = st.text_input(
+            "Ask a financial question:",
+            placeholder="e.g., How much did I spend on OpenAI in February?",
+            key="query_input"
+        )
     
     # Search button
     search_button = st.button("🔍 Search", type="primary", use_container_width=True)
     
+    # Check if we should search (either from button click or from example selection)
+    should_perform_search = search_button or (st.session_state.should_search and query)
+    
     # Results area
-    if search_button and query:
+    if should_perform_search and query:
         with st.spinner("Analyzing your query..."):
             try:
                 processor = get_query_processor()
@@ -104,6 +123,10 @@ with main_col1:
                     'sources': sources,
                     'data_found': data_found
                 })
+                
+                # Clear the selected query after successful search
+                st.session_state.selected_query = ""
+                st.session_state.should_search = False
                 
                 # Display result
                 st.markdown('<div class="result-box">', unsafe_allow_html=True)
@@ -141,6 +164,10 @@ with main_col1:
                 st.markdown("\n📧 **Email:** support@finbotics.ai")
                 st.markdown("📞 **Phone:** 1-800-FINBOTICS")
                 st.markdown('</div>', unsafe_allow_html=True)
+                
+                # Clear states on error too
+                st.session_state.selected_query = ""
+                st.session_state.should_search = False
 
 with main_col2:
     # Sidebar with example queries
@@ -155,9 +182,10 @@ with main_col2:
         "What are my biggest recurring expenses?",
     ]
     
-    for example in examples:
-        if st.button(example, key=f"example_{examples.index(example)}"):
-            st.session_state.query_input = example
+    for i, example in enumerate(examples):
+        if st.button(example, key=f"example_{i}"):
+            st.session_state.selected_query = example
+            st.session_state.should_search = True
             st.rerun()
     
     # Query history
